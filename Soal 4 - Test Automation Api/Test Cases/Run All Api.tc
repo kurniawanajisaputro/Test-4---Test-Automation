@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Run All Api</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3827ef7-6f0f-40aa-92ca-fe8df1c4ef24</testCaseGuid>
+</TestCaseEntity>
